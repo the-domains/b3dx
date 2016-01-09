@@ -4,8 +4,15 @@
         <description><![CDATA[b3dx]]></description>
         <link>https://thegrid.ai/b3dx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 21:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 22:10:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/b3dx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impressum]]></title>
+            <description><![CDATA[<h1>Impressum</h1>]]></description>
+            <link>https://thegrid.ai/b3dx/impressum/index.html</link>
+            <guid isPermaLink="false">1412dd0a-c8e7-4ad8-b663-aa21daaa7ccf</guid>
+            <pubDate>Sat, 09 Jan 2016 22:10:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid.]]></title>
             <description><![CDATA[<article><h1>The Grid.</h1><p>Lang hat es nun gedauert und jetzt ist es endlich da. </p></article>]]></description>
